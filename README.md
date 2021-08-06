@@ -1,5 +1,8 @@
 ### Hi there 👋
 
+![Github stats](https://github-readme-stats.vercel.app/api?username=oumy17&count_private=true)
+
+
 <!--
 **oumy17/oumy17** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
